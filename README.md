@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Demo Website
+Visit the live demo at: [https://Kyoz004.github.io/kietdo-portfolio](https://Kyoz004.github.io/kietdo-portfolio)
+
 ## Getting Started
 
 First, run the development server:
